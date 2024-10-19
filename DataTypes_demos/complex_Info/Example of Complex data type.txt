@@ -1,0 +1,5 @@
+var1= 5 +8j
+print(var1)
+print(type(var1))
+
+inside string you can only concat string and not other data type as it'll cause error.
