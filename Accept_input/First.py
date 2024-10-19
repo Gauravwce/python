@@ -7,4 +7,3 @@ age= int(age)
 age+=10
 print("Age after 10 years will be",age1)"""
 
-print("")
